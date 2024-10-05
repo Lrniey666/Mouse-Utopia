@@ -97,6 +97,8 @@ https://docs.google.com/document/d/1I6LmDxumgGYgtsrIZVUO2RomxJ6OgTnBFnN7nqPlHHo/
 | 29       | 準備最終成果演示        | 7          | 27, 28       | 組員 A, C   |
 | 30       | 向相關機構展示項目成果  | 5          | 29           | 組員 A, C   |
 
+## 專題PERT/CPM圖
+
 ```mermaid
 gantt
 dateFormat  YYYY-MM-DD
@@ -140,4 +142,4 @@ section 項目管理與測試
 
 ``````
 
-## 專題PERT/CPM圖
+
