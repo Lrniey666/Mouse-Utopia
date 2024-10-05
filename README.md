@@ -26,7 +26,7 @@ https://docs.google.com/document/d/1I6LmDxumgGYgtsrIZVUO2RomxJ6OgTnBFnN7nqPlHHo/
 開發與數據可視化相關的應用程式，設計演示數字雙胞胎的界面，並確保使用者可以輕鬆操作與互動。
 使用圖神經網絡（GNN）進行藥物相關性的建模，以支援藥物發現與預測。
 >>
-# 工作分解結構清單
+# 專案工作分解結構清單
 
 | 任務 | 任務名稱                | 需時（天） | 前置任務 | 主要負責人    |
 | -------- | ----------------------- | ---------- | ------------ | ----------- |
@@ -61,7 +61,7 @@ https://docs.google.com/document/d/1I6LmDxumgGYgtsrIZVUO2RomxJ6OgTnBFnN7nqPlHHo/
 | 29       | 準備最終成果演示        | 7          | 27, 28       | 組員 A, C   |
 | 30       | 向相關機構展示項目成果  | 5          | 29           | 組員 A, C   |
 
-## 專題PERT/CPM圖
+## 專案PERT/CPM圖
 
 ```mermaid
 graph TD
@@ -102,7 +102,7 @@ graph TD
     A28 --> A29
     A29 --> A30[任務30: 向相關機構展示項目成果]
 ``````
-
+## 專案甘特圖
 ```mermaid
 gantt
 dateFormat  YYYY-MM-DD
