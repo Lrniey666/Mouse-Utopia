@@ -26,3 +26,6 @@ https://docs.google.com/document/d/1I6LmDxumgGYgtsrIZVUO2RomxJ6OgTnBFnN7nqPlHHo/
 開發與數據可視化相關的應用程式，設計演示數字雙胞胎的界面，並確保使用者可以輕鬆操作與互動。
 使用圖神經網絡（GNN）進行藥物相關性的建模，以支援藥物發現與預測。
 >>
+## 專題甘特圖
+
+## 專題PERT/CPM圖
