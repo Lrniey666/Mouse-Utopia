@@ -1,12 +1,1 @@
-sequenceDiagram
-    participant User as 研究人員
-    participant System as 系統
-
-    User->>System: 輸入帳號和密碼
-    System-->>User: 驗證帳號和密碼
-    alt 成功
-        System-->>User: 登入成功，顯示首頁
-    else 失敗
-        System-->>User: 顯示錯誤提示
-    end
-
+![sequence diagram](http://www.plantuml.com/plantuml/png/SoWkIImgAStDuU9AJYrIo4ZDoS_SlKB9IJ1KYGZ9KiX9NId9KFd8ISpCIWzFYqj9_KfG00oObOevhY8h5mIwG1J4gGZT22X3vBoWCJC0)
